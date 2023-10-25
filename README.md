@@ -12,15 +12,15 @@ You can view my certificate of completion [here](https://www.udemy.com/certifica
 
 ## Technologies Used
 
-- **HTML**
-- **CSS**
-- **JavaScript:** The core game logic and functionality are implemented using JavaScript. This includes:
+- HTML
+- CSS
+- JavaScript: The core game logic and functionality are implemented using JavaScript. This includes:
 
-- Selecting and manipulating HTML elements in the Document Object Model (DOM).
-- Managing game state, player scores, and current scores.
-- Implementing dice roll functionality.
-- Determining the game winner and handling game-over scenarios.
-- Handling user interactions through event listeners.
+* Selecting and manipulating HTML elements in the Document Object Model (DOM).
+* Managing game state, player scores, and current scores.
+* Implementing dice roll functionality.
+* Determining the game winner and handling game-over scenarios.
+* Handling user interactions through event listeners.
 
 ## Functionality
 
